@@ -6,6 +6,6 @@ Open `mocha.html` in the browser.
 
 ## Frameworks in use
 
-* Mocha, <http://visionmedia.github.io/mocha>
+* Mocha, <http://mochajs.org/>
 * Chai, <http://chaijs.com/>
 
